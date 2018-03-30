@@ -1,0 +1,26 @@
+.full{
+    height: 100vh;
+    overflow: hidden;
+    width: 100%;
+}
+
+.btn_first{
+    position: absolute;
+    top: 48%;
+    left: 0;
+    z-index: 5;
+}
+
+.btn_second{
+    position: absolute;
+    top: 48%;
+    right: 0%;
+    z-index: 5;
+}
+.back{
+    transition: all .5s linear;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: absolute;
+}
